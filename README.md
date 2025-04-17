@@ -15,8 +15,7 @@ This project leverages deep learning models for detecting and classifying lung d
 
 - **Deep Learning Models**:
     - **CNN** (Convolutional Neural Network): Used for detecting and classifying lung diseases from X-ray images.
-    - **Pretrained Models**: Models like **VGG16**, **ResNet**, and **InceptionV3** can be used for transfer learning, which are fine-tuned to detect lung diseases with high accuracy.
-    - **Variational Models**: Examples include **Variational Autoencoders (VAEs)** or **GAN-based architectures**, which are capable of learning the latent representations of lung disease images and can improve classification by generating new synthetic data for training.
+
 
 - **Interpretability Methods**:
     - **Grad-CAM++**: Visualizes highlighted areas in the image that influence the model’s predictions by showing where the model is focusing during classification.
@@ -48,6 +47,7 @@ print("Path to dataset files:", path)
 
 
 
+```
 
 
 ## **Requirements**
