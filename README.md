@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 
 
-Image Preprocessing and Feature Extraction
+**Image Preprocessing and Feature Extraction**
 The notebook implements the following image preprocessing techniques:
 
 Histogram Equalization: Improves the contrast of images, making important features in low-contrast images more visible.
@@ -86,7 +86,7 @@ Sobel Filter: Detects edges in the image, useful for recognizing structural patt
 Canny Edge Detection: A popular edge-detection algorithm used for identifying sharp changes in intensity.
 
 
-Model Overview
+**Model Overview**
 The project implements the following models for detecting and classifying lung diseases from chest X-ray images:
 
 1. Convolutional Neural Networks (CNNs)
