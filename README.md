@@ -70,6 +70,7 @@ You can install the required packages using the following command:
 ```bash
 pip install -r requirements.txt
 
+```
 
 Image Preprocessing and Feature Extraction
 The notebook implements the following image preprocessing techniques:
