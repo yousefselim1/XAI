@@ -15,6 +15,10 @@ This project leverages deep learning models for detecting and classifying lung d
 
 - **Deep Learning Models**:
     - **CNN** (Convolutional Neural Network): Used for detecting and classifying lung diseases from X-ray images.
+    -     - **Pretrained Models**:
+      - **VGG16** and **VGG19**: These well-known CNNs are pretrained on large image datasets (ImageNet) and fine-tuned for detecting lung diseases.
+      - **EfficientNetB0**: A highly efficient model that scales well across different sizes.
+      - **InceptionV3**: A powerful CNN model used for image classification.
 
 
 - **Interpretability Methods**:
